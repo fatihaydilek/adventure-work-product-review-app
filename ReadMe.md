@@ -1,4 +1,13 @@
-## Adventure Work Product Review Application
+## Product Review App - Serverless Stack-RDS 
+
+**Components:**
+
+* API Layer -> API Gateway
+* Database -> RDS(Mysql)
+* Worker Layer #1-Review processor -> Lambda
+* Queue -> SQS
+* Woker Layer #2-Notifications -> Lambda
+
 
 #### Prerequisites
 
